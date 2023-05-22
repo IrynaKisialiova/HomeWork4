@@ -1,0 +1,30 @@
+C:\Users\Администратор\Desktop\Дом работа 4\task 25\bin\Debug\net6.0\task 25.exe
+C:\Users\Администратор\Desktop\Дом работа 4\task 25\bin\Debug\net6.0\task 25.deps.json
+C:\Users\Администратор\Desktop\Дом работа 4\task 25\bin\Debug\net6.0\task 25.runtimeconfig.json
+C:\Users\Администратор\Desktop\Дом работа 4\task 25\bin\Debug\net6.0\task 25.dll
+C:\Users\Администратор\Desktop\Дом работа 4\task 25\bin\Debug\net6.0\task 25.pdb
+C:\Users\Администратор\Desktop\Дом работа 4\task 25\obj\Debug\net6.0\task 25.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Дом работа 4\task 25\obj\Debug\net6.0\task 25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Дом работа 4\task 25\obj\Debug\net6.0\task 25.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Дом работа 4\task 25\obj\Debug\net6.0\task 25.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Дом работа 4\task 25\obj\Debug\net6.0\task 25.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Дом работа 4\task 25\obj\Debug\net6.0\task 25.dll
+C:\Users\Администратор\Desktop\Дом работа 4\task 25\obj\Debug\net6.0\refint\task 25.dll
+C:\Users\Администратор\Desktop\Дом работа 4\task 25\obj\Debug\net6.0\task 25.pdb
+C:\Users\Администратор\Desktop\Дом работа 4\task 25\obj\Debug\net6.0\task 25.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\Дом работа 4\task 25\obj\Debug\net6.0\ref\task 25.dll
+C:\Users\Администратор\Desktop\Дом работа 4\task25\bin\Debug\net6.0\task 25.exe
+C:\Users\Администратор\Desktop\Дом работа 4\task25\bin\Debug\net6.0\task 25.deps.json
+C:\Users\Администратор\Desktop\Дом работа 4\task25\bin\Debug\net6.0\task 25.runtimeconfig.json
+C:\Users\Администратор\Desktop\Дом работа 4\task25\bin\Debug\net6.0\task 25.dll
+C:\Users\Администратор\Desktop\Дом работа 4\task25\bin\Debug\net6.0\task 25.pdb
+C:\Users\Администратор\Desktop\Дом работа 4\task25\obj\Debug\net6.0\task 25.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Дом работа 4\task25\obj\Debug\net6.0\task 25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Дом работа 4\task25\obj\Debug\net6.0\task 25.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Дом работа 4\task25\obj\Debug\net6.0\task 25.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Дом работа 4\task25\obj\Debug\net6.0\task 25.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Дом работа 4\task25\obj\Debug\net6.0\task 25.dll
+C:\Users\Администратор\Desktop\Дом работа 4\task25\obj\Debug\net6.0\refint\task 25.dll
+C:\Users\Администратор\Desktop\Дом работа 4\task25\obj\Debug\net6.0\task 25.pdb
+C:\Users\Администратор\Desktop\Дом работа 4\task25\obj\Debug\net6.0\task 25.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\Дом работа 4\task25\obj\Debug\net6.0\ref\task 25.dll
